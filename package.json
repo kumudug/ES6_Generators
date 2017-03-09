@@ -1,0 +1,23 @@
+{
+  "name": "es6_generators",
+  "version": "1.0.0",
+  "description": "ES6 Generators",
+  "main": "script.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumudug/ES6_Generators.git"
+  },
+  "author": "kumudu.gunasekara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumudug/ES6_Generators/issues"
+  },
+  "homepage": "https://github.com/kumudug/ES6_Generators#readme",
+  "devDependencies": {
+    "express": "^4.15.2"
+  }
+}
