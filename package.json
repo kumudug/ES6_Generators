@@ -19,5 +19,7 @@
   "homepage": "https://github.com/kumudug/ES6_Generators#readme",
   "devDependencies": {
     "express": "^4.15.2"
+  },
+  "dependencies": {
   }
 }
